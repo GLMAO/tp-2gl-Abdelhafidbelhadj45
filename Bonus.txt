@@ -1,0 +1,1 @@
+la classe GestionnaireEmploiDuTemps ne repspect pas 'Single responsibility' car elle gere l'ajout et modification des coures et l'ajout et suppression et notification des observers
